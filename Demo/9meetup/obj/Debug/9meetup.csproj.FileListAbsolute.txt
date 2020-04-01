@@ -1,0 +1,15 @@
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\9meetup.exe.config
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\9meetup.exe
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\9meetup.pdb
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\EntityFramework.dll
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\EntityFramework.xml
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\_9meetup.Form1.resources
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\_9meetup.Properties.Resources.resources
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\9meetup.csproj.GenerateResource.cache
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\9meetup.csproj.CoreCompileInputs.cache
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\9meetup.csproj.CopyComplete
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\9meetup.exe
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\9meetup.pdb
+C:\Users\marce\Google Drive\Palestras\9o_meetup\Demo\9meetup\obj\Debug\9meetup.csprojAssemblyReference.cache
